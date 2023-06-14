@@ -52,15 +52,20 @@ margin: auto;
     0%{
         color: red;
         font-size: 30px;
+        letter-spacing:1px;
     }
     50%{
         color: #192;
         font-size: 30px;
+        letter-spacing:3px;
+        
 
     }
     100%{
         color: #d75454e3;
         font-size: 35px;
+        letter-spacing:2px;
+        
 
     }
 } 
