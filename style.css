@@ -48,7 +48,7 @@ text-align: center;
 margin: auto;
 
 }
-/* @keyframes changebg{
+ @keyframes changebg{
     0%{
         color: red;
         font-size: 30px;
@@ -63,7 +63,7 @@ margin: auto;
         font-size: 35px;
 
     }
-} */
+} 
 button{
     padding: 10px;
     border-radius: 5px;
